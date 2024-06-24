@@ -1,0 +1,82 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa; 
+    color: #333; 
+  }
+  
+  h1, h2, h3, h4 {
+    font-weight: bold;
+  }
+  
+  .encabezado {
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .titulo {
+    font-size: 36px; 
+    color: #007bff; 
+  }
+  
+  .seccion {
+    margin-top: 30px;
+    padding: 20px;
+    border-radius: 10px; 
+    background-color: #fff; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .seccion h2 {
+    margin-top: 0; 
+  }
+  
+  .proyecto {
+    margin-bottom: 20px;
+  }
+  
+  .proyecto p {
+    margin: 0; 
+  }
+  
+  .proyecto i {
+    font-size: 20px; 
+    margin-right: 10px; 
+  }
+  
+  .sobre-mi {
+    text-align: center;
+  }
+  
+  .imagen-perfil {
+    width: 150px; 
+    height: 150px;
+    border-radius: 50%; 
+    object-fit: cover;
+    margin: 20px auto; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .descripcion-personal {
+    font-size: 16px; 
+    line-height: 1.5; 
+  }
+
+  .redes-sociales {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .redes-sociales a {
+    display: inline-block; 
+    margin: 0 10px; 
+  }
+  
+  .redes-sociales i {
+    font-size: 24px;
+    color: #333; 
+  }
+  
+  .redes-sociales i:hover {
+    color: #007bff; 
+  }
+  
